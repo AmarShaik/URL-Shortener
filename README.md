@@ -1,3 +1,3 @@
-# URL-Shortene
+# URL-Shortener using Next.js
 
 In progress...
